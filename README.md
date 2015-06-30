@@ -10,6 +10,10 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 * [The First Workshop on Computing News Storylines - Beijing 31 July](http://www.understandinglanguagebymachines.org/newsstory15/)
 * [Time, Freedom & Narrative Conference - Manchester 3 July](https://timefreedomnarrative.wordpress.com/programme/)
 
+## references
+
+* [DH101 - Intro to Digital Humanities](http://dh101.humanities.ucla.edu/) Concepts, Methods, and Tutorials for Students and Instructors
+* [Dark Matter](https://medium.com/tedx-experience/dark-matter-a6c7430d84d1) on technology in museums, by Michael Peter Edson
 
 ## projects / examples
 
@@ -28,10 +32,5 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 * [Home Front](http://homefront.ch.bbc.co.uk/) - BBC website for a radio program on world war I allows exploration via characters, events, places involved, using storyline ontology.
 * [Mythology Engine](http://www.bbc.co.uk/blogs/researchanddevelopment/2010/03/the-mythology-engine-represent.shtml) - early project structuring Doctor Who as storylines. Site is up but behind a login - ask @r4isstatic for a login to the site if you're interested.
 
-<<<<<<< HEAD
 ### Academic centres of practice
 * [Roy Rosenzweig Center for History & New Media] (http://chnm.gmu.edu/)
- 
-
-=======
->>>>>>> 0efa7fc42b6d5d119ee5f60400e6d5338c9de8cf
