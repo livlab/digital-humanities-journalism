@@ -1,6 +1,10 @@
 # digital-humanities-journalism
-The what (and how) digital humanities and news nerds want to explore together
+We are exploring what digital humanities and news nerds would want to explore together and how we might facilitate it. Please add ideas/questions to https://github.com/livlab/digital-humanities-journalism/issues
 
-Started here with Joe Germuska: https://twitter.com/JoeGermuska/status/615862917997699072
+This discussion started with Joe Germuska: 
+**"Seems like some kind of meeting of the tribes between news nerds and digital humanities folks would pay off nicely."**
+https://twitter.com/JoeGermuska/status/615862917997699072
 
-Please add ideas/questions to https://github.com/livlab/digital-humanities-journalism/issues
+
+
+
