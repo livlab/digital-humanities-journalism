@@ -8,7 +8,6 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 ## related events
 
 * [The First Workshop on Computing News Storylines - Beijing 31 July](http://www.understandinglanguagebymachines.org/newsstory15/)
-* [Computing News Storylines - Amsterdam 31 July](https://sites.google.com/site/computingnewsstorylines2015/) - I think this is the event in Holland, but I'm not entirely sure. Seems to be in conjunction with the one in Beijing.
 * [Time, Freedom & Narrative Conference - Manchester 3 July](https://timefreedomnarrative.wordpress.com/programme/)
 
 
@@ -29,7 +28,10 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 * [Home Front](http://homefront.ch.bbc.co.uk/) - BBC website for a radio program on world war I allows exploration via characters, events, places involved, using storyline ontology.
 * [Mythology Engine](http://www.bbc.co.uk/blogs/researchanddevelopment/2010/03/the-mythology-engine-represent.shtml) - early project structuring Doctor Who as storylines. Site is up but behind a login - ask @r4isstatic for a login to the site if you're interested.
 
+<<<<<<< HEAD
 ### Academic centres of practice
 * [Roy Rosenzweig Center for History & New Media] (http://chnm.gmu.edu/)
  
 
+=======
+>>>>>>> 0efa7fc42b6d5d119ee5f60400e6d5338c9de8cf
