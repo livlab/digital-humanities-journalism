@@ -21,8 +21,15 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 * [Google Living Stories](http://livingstories.googlelabs.com/) - about 5 years old now but shows one possible presentation of news as connected storylines.
 * [The Refugee Project](http://www.therefugeeproject.org/#) - mapping migrations over time with related stories (here, events and headlines)
 * [Space Log](http://spacelog.org/) - Read the stories of early space exploration from the original transcripts. Now open to the public in a searchable, linkable format.
+* [Ontomedia] (http://contextus.net/) and the work of Faith Lawrence & Mike Jewell - the former is in the Digital Humanities faculty at Kings College London, Mike Jewell is at Southampton University, both have been v influential in DH & narrative circles
 
 ### BBC
 * [Arab Spring Storyline](http://story-newshack.rhcloud.com/) - from the first [News Labs](http://bbcnewslabs.co.uk) hack - [#16 in the list here](http://newshack.co.uk/newshack-2013/hacks/), an example visualization built on [BBC's Storyline ontology](http://www.bbc.co.uk/ontologies/storyline). This is a take on explaining key events in the Arab Spring through a mix of pull quotes, maps, timelines and charts.
+* [Stories Ontology](http://contextus.net/stories) - a model (predating Storyline) which is more focused on interpretations of events (i.e. useful for more subjective claims about stuff)
 * [Home Front](http://homefront.ch.bbc.co.uk/) - BBC website for a radio program on world war I allows exploration via characters, events, places involved, using storyline ontology.
 * [Mythology Engine](http://www.bbc.co.uk/blogs/researchanddevelopment/2010/03/the-mythology-engine-represent.shtml) - early project structuring Doctor Who as storylines. Site is up but behind a login - ask @r4isstatic for a login to the site if you're interested.
+
+### Academic centres of practice
+* [Roy Rosenzweig Center for History & New Media] (http://chnm.gmu.edu/)
+ 
+
