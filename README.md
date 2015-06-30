@@ -8,7 +8,6 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 ## related events
 
 * [The First Workshop on Computing News Storylines - Beijing 31 July](http://www.understandinglanguagebymachines.org/newsstory15/)
-* [Computing News Storylines - Amsterdam 31 July](https://sites.google.com/site/computingnewsstorylines2015/) - I think this is the event in Holland, but I'm not entirely sure. Seems to be in conjunction with the one in Beijing.
 * [Time, Freedom & Narrative Conference - Manchester 3 July](https://timefreedomnarrative.wordpress.com/programme/)
 
 
@@ -26,3 +25,4 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 * [Arab Spring Storyline](http://story-newshack.rhcloud.com/) - from the first [News Labs](http://bbcnewslabs.co.uk) hack - [#16 in the list here](http://newshack.co.uk/newshack-2013/hacks/), an example visualization built on [BBC's Storyline ontology](http://www.bbc.co.uk/ontologies/storyline). This is a take on explaining key events in the Arab Spring through a mix of pull quotes, maps, timelines and charts.
 * [Home Front](http://homefront.ch.bbc.co.uk/) - BBC website for a radio program on world war I allows exploration via characters, events, places involved, using storyline ontology.
 * [Mythology Engine](http://www.bbc.co.uk/blogs/researchanddevelopment/2010/03/the-mythology-engine-represent.shtml) - early project structuring Doctor Who as storylines. Site is up but behind a login - ask @r4isstatic for a login to the site if you're interested.
+
