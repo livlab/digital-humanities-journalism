@@ -5,14 +5,17 @@ This discussion started with Joe Germuska:
 **"Seems like some kind of meeting of the tribes between news nerds and digital humanities folks would pay off nicely."** 
 https://twitter.com/JoeGermuska/status/615862917997699072
 
-## related events
+## events
 
 * [The First Workshop on Computing News Storylines - Beijing 31 July](http://www.understandinglanguagebymachines.org/newsstory15/)
 * [Time, Freedom & Narrative Conference - Manchester 3 July](https://timefreedomnarrative.wordpress.com/programme/)
+* [THATCamps - everywhere, lots of times](http://thatcamp.org/)
+* [DH+DJ Synposium - Miami, Fall 2016](https://twitter.com/albertocairo/status/616265345939013632)
 
 ## references
 
 * [DH101 - Intro to Digital Humanities](http://dh101.humanities.ucla.edu/) Concepts, Methods, and Tutorials for Students and Instructors
+* [Digital Journalism and Digital Humanities](http://www.dancohen.org/2012/02/08/digital-journalism-and-digital-humanities/)
 * [Dark Matter](https://medium.com/tedx-experience/dark-matter-a6c7430d84d1) on technology in museums, by Michael Peter Edson
 
 ## projects / examples
