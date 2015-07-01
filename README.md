@@ -11,6 +11,7 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 * [Time, Freedom & Narrative Conference - Manchester 3 July](https://timefreedomnarrative.wordpress.com/programme/)
 * [THATCamps - everywhere, lots of times](http://thatcamp.org/)
 * [DH+DJ Synposium - Miami, Fall 2016](https://twitter.com/albertocairo/status/616265345939013632)
+* [Bay Area DH Meetup](http://www.meetup.com/BayAreaDH/)
 
 ## references
 
