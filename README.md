@@ -12,6 +12,7 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 * [Time, Freedom & Narrative Conference (Manchester, July 2013)](https://timefreedomnarrative.wordpress.com/programme/)
 * [THATCamps](http://thatcamp.org/) - ongoing, everywhere, lots of times
 * [Global DH Conference (Sidney, June 2015)](http://dh2015.org/): Annual Conference of the Alliance of Digital Humanities Organizations - [Tweets](https://twitter.com/Geoffmuse/status/616156847486046208), [posters](https://www.dropbox.com/sh/xyf108tari5vw68/AAAuAUpMPOAFCqrfsc3UFJiea?dl=0)
+* [Bay Area DH Meetup](http://www.meetup.com/BayAreaDH/)
 
 ## References
 
