@@ -7,12 +7,11 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 
 ## Events
 
-* Tentatively planned: [DH+DJ Synposium - Miami, May 2016](https://twitter.com/albertocairo/status/616571887569600512)
-
-* [The First Workshop on Computing News Storylines - Beijing 31 July](http://www.understandinglanguagebymachines.org/newsstory15/)
-* [Time, Freedom & Narrative Conference - Manchester 3 July](https://timefreedomnarrative.wordpress.com/programme/)
-* [THATCamps - everywhere, lots of times](http://thatcamp.org/)
-* [Global DH Conference - Sidney June 2015](http://dh2015.org/): Annual Conference of the Alliance of Digital Humanities Organizations - [Tweets](https://twitter.com/Geoffmuse/status/616156847486046208),[posters](https://www.dropbox.com/sh/xyf108tari5vw68/AAAuAUpMPOAFCqrfsc3UFJiea?dl=0)
+* [DH+DJ Symposium (Miami, May 2016)](https://twitter.com/albertocairo/status/616571887569600512) - **Tentatively planned**
+* [The First Workshop on Computing News Storylines - (Beijing, July 2015)](http://www.understandinglanguagebymachines.org/newsstory15/)
+* [Time, Freedom & Narrative Conference (Manchester, July 2013)](https://timefreedomnarrative.wordpress.com/programme/)
+* [THATCamps](http://thatcamp.org/) - ongoing, everywhere, lots of times
+* [Global DH Conference (Sidney, June 2015)](http://dh2015.org/): Annual Conference of the Alliance of Digital Humanities Organizations - [Tweets](https://twitter.com/Geoffmuse/status/616156847486046208), [posters](https://www.dropbox.com/sh/xyf108tari5vw68/AAAuAUpMPOAFCqrfsc3UFJiea?dl=0)
 
 ## References
 
@@ -39,15 +38,15 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 
 ### People and Places
 * [Roy Rosenzweig Center for History & New Media](http://chnm.gmu.edu/)
-[Moving Image museum](https://twitter.com/MovingImageNYC)
-[Museum of Digital Art](https://twitter.com/https://www.kickstarter.com/projects/muda/museum-of-digital-art)
-[Internet Archive](https://twitter.com/internetarchive) 
-[A “Digital Heritage” meetup that happens in DC](http://www.meetup.com/Digital-Cultural-Heritage-DC/events/220712318/?a=md2_grp&rv=md2&_af_eid=220712318&_af=event)
-[NYPL Labs](https://twitter.com/nypl_labs)
-[British Library sound archive](https://twitter.com/soundarchive)
-[Radio Web MACBA](https://twitter.com/Radio_Web_MACBA)
-[IFDA Doc Lab](https://twitter.com/DocLab)
-[Twinery](http://twinery.org/)
-[Open(Art) initiative](http://openart.eyebeam.org/)
+* [Moving Image museum](https://twitter.com/MovingImageNYC)
+* [Museum of Digital Art](https://twitter.com/https://www.kickstarter.com/projects/muda/museum-of-digital-art)
+* [Internet Archive](https://twitter.com/internetarchive) 
+* [A “Digital Heritage” meetup that happens in DC](http://www.meetup.com/Digital-Cultural-Heritage-DC/events/220712318/?a=md2_grp&rv=md2&_af_eid=220712318&_af=event)
+* [NYPL Labs](https://twitter.com/nypl_labs)
+* [British Library sound archive](https://twitter.com/soundarchive)
+* [Radio Web MACBA](https://twitter.com/Radio_Web_MACBA)
+* [IFDA Doc Lab](https://twitter.com/DocLab)
+* [Twinery](http://twinery.org/)
+* [Open(Art) initiative](http://openart.eyebeam.org/)
 
 
