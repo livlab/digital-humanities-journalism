@@ -19,6 +19,7 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 * [DH101 - Intro to Digital Humanities](http://dh101.humanities.ucla.edu/) Concepts, Methods, and Tutorials for Students and Instructors
 * [Digital Journalism and Digital Humanities](http://www.dancohen.org/2012/02/08/digital-journalism-and-digital-humanities/)
 * [Dark Matter](https://medium.com/tedx-experience/dark-matter-a6c7430d84d1) on technology in museums, by Michael Peter Edson
+* [What’s Next: The Radical, Unrealized Potential of Digital Humanities](http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/)
 
 ## Projects and Examples
 
