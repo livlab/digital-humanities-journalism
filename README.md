@@ -22,6 +22,9 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 * [What’s Next: The Radical, Unrealized Potential of Digital Humanities](http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/)
 * [A Science of Literature](https://bostonreview.net/books-ideas/ben-merriman-moretti-jockers-digital-humanities)
 
+## Articles
+
+* [The Trouble With Digitizing History](https://www.fastcompany.com/3048283/the-trouble-with-digitizing-history)
 
 ## Projects and Examples
 
