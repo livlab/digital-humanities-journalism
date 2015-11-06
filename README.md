@@ -8,6 +8,7 @@ https://twitter.com/JoeGermuska/status/615862917997699072
 ## Events
 
 * [DH+DJ Symposium (Miami, May 2016)](https://twitter.com/albertocairo/status/616571887569600512) - **Tentatively planned**
+* [MozFest session, Nov 6-8, 2015](https://app.mozillafestival.org/#_session-661)
 * [The First Workshop on Computing News Storylines - (Beijing, July 2015)](http://www.understandinglanguagebymachines.org/newsstory15/)
 * [Time, Freedom & Narrative Conference (Manchester, July 2013)](https://timefreedomnarrative.wordpress.com/programme/)
 * [THATCamps](http://thatcamp.org/) - ongoing, everywhere, lots of times
